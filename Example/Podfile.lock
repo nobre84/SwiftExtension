@@ -1,0 +1,16 @@
+PODS:
+  - SwiftExtension (0.1.0)
+
+DEPENDENCIES:
+  - SwiftExtension (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftExtension:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SwiftExtension: e7cdec895f1b55d53a3415cb432486b2b8365e50
+
+PODFILE CHECKSUM: dd4f0299acf8f68bfeda4de23be8c7edf6dcd74c
+
+COCOAPODS: 1.0.1
